@@ -11,7 +11,7 @@ The Resume Parser project is a tool designed to extract key information such as 
 - **Multi-format Support**: Parse resumes in PDF, DOCX, and ZIP file formats.
 
 ## Requirements Installation
-
+ ```bash
 pip install nltk
 
 pip install spacy==2.3.5
